@@ -33,3 +33,28 @@ Students are represented as objects using the `Student` class. Each student obje
 
 Student data is converted into dictionaries and stored in a JSON file so that information is preserved after closing the program.
 
+## Requirements
+
+- Python 3.10 or newer
+
+No external libraries are required.
+
+## Running the Project
+
+1. Clone the repository:
+
+```bash
+git clone <repository-link>
+
+2- Navigate to the project folder:
+cd GradeAnalyzer
+
+3-Run the program:
+python main.py
+
+
+Future Improvements
+-Add the ability to edit student information
+-Add sorting students by grade
+-Add more detailed grade reports
+-Add additional data analysis features
